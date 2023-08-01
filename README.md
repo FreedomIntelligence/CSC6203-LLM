@@ -4,12 +4,12 @@
 - Introduction to Large Language Models (LLMs) （from a user's point of view）
 - Language models and beyond（Word2vec, ELMO, BERT, GPT, GPT-3, Instruct-GPT, Code-davici, ChatGPT，GPT-4 etc.）
 - Architecture engineering and scaling law: Transformer and beyond (https://github.com/karpathy/nanoGPT, position embedding, emergent abilities, long context Transformer)
-- Training LLMs from scratch (Pre-training, sFT and learning LMS with human feedback; parameter-efficient training, LORA, Parallelism)
+- Training LLMs from scratch (Pre-training, SFT and learning LLMs with human feedback; parameter-efficient training, LORA, Parallelism, see [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) and [LLMFactory](https://github.com/FreedomIntelligence/LLMFactory))
 - Efficiency in LLM. (https://github.com/karpathy/llama2.c  sparse language model, quantilization, pruning, knowledge distillation, modular architectures, etc.)
 - Prompt engineering  ( in-context learning, COT and advanced prompts)
 - Knowledge and Reasoning (memorization, coding)
 - Multimodal LMs
-- LLMs in vertical domains (HuatuoGPT, ChatLaw).
+- LLMs in vertical domains ([HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) and [Medical-NLP](https://github.com/FreedomIntelligence/Medical_NLP), ChatLaw).
 - Privacy, bias, fairness,  Toxicity and  Holistic Evalution ( Calibration and evaluation)
 - Tools  and Large language models (embodied AI with robots, web search, plugins and beyond)
 - Alignment and Limitations (know how to reject, rubustness, Hallucination, irrelevant context, low-resource language)
