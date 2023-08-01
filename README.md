@@ -10,8 +10,8 @@
 - Knowledge and Reasoning (memorization, coding)
 - Multimodal LMs
 - LLMs in vertical domains ([HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) and [Medical-NLP](https://github.com/FreedomIntelligence/Medical_NLP), ChatLaw).
-- Privacy, bias, fairness,  Toxicity and  Holistic Evalution ( Calibration and evaluation)
 - Tools  and Large language models (embodied AI with robots, web search, plugins and beyond)
+- Privacy, bias, fairness,  Toxicity and  Holistic Evalution ( Calibration and evaluation)
 - Alignment and Limitations (know how to reject, rubustness, Hallucination, irrelevant context, low-resource language)
 - Guest lecture (topic undecided, e.g., localized ChatGPT, Neuroscience-Inspired Artificial Intelligence)
 - Guest lecture (topic undecided, e.g. mathmatical problems in LLMs, games using LLMs)
